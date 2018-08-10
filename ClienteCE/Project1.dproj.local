@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/20 18:14:02.000.024,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/20 18:14:14.000.774,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/20 20:45:57.000.266,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/02 11:23:24.000.175,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/08 10:00:05.000.011,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/08 10:12:50.000.576,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/09 21:38:32.276,=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/10 18:23:18.569,C:\Github TDevRocks\ClienteCE\Unit1.pas=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/10 18:23:18.572,C:\Github TDevRocks\ClienteCE\Unit1.fmx=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/08/10 18:24:47.906,C:\Github TDevRocks\ClienteCE\Project1.dproj=C:\Users\dsk-modelo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

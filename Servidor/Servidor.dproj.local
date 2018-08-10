@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/09 21:26:18.000.028,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\FormUnit1.pas</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.679,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\js\base64.js</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.812,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\js\callbackframework-min.js</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.763,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\js\json2-min.js</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.715,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\js\callbackframework.js</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.481,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.691,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.729,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\js\serverfunctions.js</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.308,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.747,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\js\base64-min.js</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.783,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2018/08/09 21:26:18.000.704,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\js\json2.js</Transaction>
+    <Transaction>2018/08/09 21:32:42.000.111,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\infra\Restaurantes.Utils.pas</Transaction>
+    <Transaction>2018/08/09 21:32:42.000.151,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\infra\ULGTDataSetHelper.pas</Transaction>
+    <Transaction>2018/08/09 21:34:17.000.029,=D:\OneDrive\04-TDevRocks\06-TiraTeima\20180810\Servidor\infra\Restaurantes.Constantes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
